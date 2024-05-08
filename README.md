@@ -70,6 +70,13 @@ Python 3.9.12
 You can follow the python MongoDB examples in this tutorial even if you
 are new to Python.
 
+We recommend that you set up a MongoDB Atlas free tier cluster for this tutorial.
+
+- [Launch Your Free Tier Cluster Now](https://www.mongodb.com/cloud/atlas/register)
+- [Learn more about Atlas](https://www.mongodb.com/products/platform/atlas-database)
+
+
+
 ## Connecting Python and MongoDB Atlas
 
 PyMongo has a set of packages for Python MongoDB interaction. For the
